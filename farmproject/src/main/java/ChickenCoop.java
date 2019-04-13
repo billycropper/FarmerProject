@@ -1,15 +1,27 @@
+import java.util.ArrayList;
+
 public class ChickenCoop {
-    private Chicken chicken;
+    private ArrayList<Chicken> chickens = new ArrayList<Chicken>();
 
-    public ChickenCoop(Chicken chicken) {
-        this.chicken = chicken;
+    public ChickenCoop(ArrayList<Chicken> chickens) {
+        this.chickens = chickens;
     }
 
-    public Chicken getChicken() {
-        return chicken;
+    public ArrayList<Chicken> getChickens() {
+        return chickens;
+    }
+    public void addChicken(Chicken chicken){
+        chickens.add(chicken);
+    }
+    public void removeChicken(Chicken chicken){
+        chickens.remove(chicken);
+    }
+    public String chickensToString(){
+        return chickens.toString();
     }
 
-    public void setChicken(Chicken chicken) {
-        this.chicken = chicken;
+    @Override
+    public String toString() {
+        return " Chicken Coop contains " + chickensToString();
     }
 }

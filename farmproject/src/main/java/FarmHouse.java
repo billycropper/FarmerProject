@@ -1,15 +1,33 @@
+import java.util.ArrayList;
+
 public class FarmHouse {
-    private Person person;
+    private ArrayList<Person> peoples = new ArrayList<Person>();
 
-    public FarmHouse(Person person) {
-        this.person = person;
+    public ArrayList<Person> getPeoples() {
+        return peoples;
     }
 
-    public Person getPerson() {
-        return person;
+    public void setPeoples(ArrayList<Person> peoples) {
+        this.peoples = peoples;
     }
 
-    public void setPerson(Person person) {
-        this.person = person;
+    public FarmHouse(ArrayList<Person> peoples) {
+        this.peoples = peoples;
+    }
+
+    public void addPerson(Person person){
+        peoples.add(person);
+    }
+    public void removePerson(Person person){
+        peoples.remove(person);
+    }
+
+    public String farmHouseToString(){
+        return peoples.toString();
+    }
+
+    @Override
+    public String toString() {
+        return " FarmHouse contains " + farmHouseToString();
     }
 }

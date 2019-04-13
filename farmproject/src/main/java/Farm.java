@@ -1,35 +1,45 @@
+import java.util.ArrayList;
+
 public class Farm {
-    private Stable stable;
-    private  ChickenCoop chickenCoop;
+    private ArrayList<Stable> stables = new ArrayList<Stable>();
+    private ArrayList<ChickenCoop> chickenCoops = new ArrayList<ChickenCoop>();
     private FarmHouse farmHouse;
+    private ArrayList<Field> fields = new ArrayList<Field>();
 
-    public Farm(Stable stable, ChickenCoop chickenCoop, FarmHouse farmHouse) {
-        this.stable = stable;
-        this.chickenCoop = chickenCoop;
-        this.farmHouse = farmHouse;
+    public ArrayList<Stable> getStables() {
+        return stables;
     }
 
-    public Stable getStable() {
-        return stable;
+    public ArrayList<ChickenCoop> getChickenCoops() {
+        return chickenCoops;
     }
 
-    public void setStable(Stable stable) {
-        this.stable = stable;
-    }
-
-    public ChickenCoop getChickenCoop() {
-        return chickenCoop;
-    }
-
-    public void setChickenCoop(ChickenCoop chickenCoop) {
-        this.chickenCoop = chickenCoop;
+    public ArrayList<Field> getFields() {
+        return fields;
     }
 
     public FarmHouse getFarmHouse() {
         return farmHouse;
     }
+    public void addChickenCoop(ChickenCoop chickenCoop){
+        chickenCoops.add(chickenCoop);
+    }
+    public void addStable(Stable stable){
+        stables.add(stable);
+    }
+    public void addField(Field field){
+        fields.add(field);
+    }
 
-    public void setFarmHouse(FarmHouse farmHouse) {
+    public Farm(ArrayList<Stable> stables, ArrayList<ChickenCoop> chickenCoops, FarmHouse farmHouse, ArrayList<Field> fields) {
+        this.stables = stables;
+        this.chickenCoops = chickenCoops;
         this.farmHouse = farmHouse;
+        this.fields = fields;
+    }
+
+    @Override
+    public String toString() {
+        return "This Farm contains: " + stables +" and "+ chickenCoops + " and " +farmHouse + " and " + fields;
     }
 }
