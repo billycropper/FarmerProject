@@ -1,20 +1,46 @@
-public class TomatoPlant extends Crop {
-    private String Tomato;
+import java.util.ArrayList;
 
-    public TomatoPlant(String tomato) {
-        Tomato = tomato;
+public class TomatoPlant extends Plant{
+
+    private ArrayList<Crop> tomatoesOnPlant;
+    Tomato tomato = new Tomato();
+
+    public TomatoPlant(boolean hasBeenHarvested, ArrayList<Crop> tomatoesOnPlant) {
+        super(hasBeenHarvested);
+        this.tomatoesOnPlant = tomatoesOnPlant;
+        tomatoesOnPlant.add(tomato);
+        tomatoesOnPlant.add(tomato);
+        tomatoesOnPlant.add(tomato);
+        tomatoesOnPlant.add(tomato);
+        tomatoesOnPlant.add(tomato);
     }
 
-    public String getTomato() {
-        return Tomato;
+    @Override
+    public String toString() {
+        String str = "";
+        for(int i = 0; i < tomatoesOnPlant.size(); i++){
+            str += "\n" + tomatoesOnPlant.get(i);
+        }
+        return "\n" + "TomatoPlant" + str +"\n\n";
     }
 
-    public void setTomato(String tomato) {
-        Tomato = tomato;
+    public void setCropsOnPlant(ArrayList<Crop> tomatoes) {
+        tomatoesOnPlant = tomatoes;
+    }
+    public ArrayList getCropsOnPlant() {
+        return tomatoesOnPlant;
+    }
+    public Crop getTomato() {
+        int index = tomatoesOnPlant.size() - 1;
+        return tomatoesOnPlant.get(index);
     }
 
-    public void yield() {
+    public static void main(String[] args) {
+
+        ArrayList<Crop> tomatoesOnStalk = new ArrayList<Crop>();
+        TomatoPlant tomatoPlant = new TomatoPlant(false, tomatoesOnStalk);
+        System.out.println(tomatoPlant.getTomato());
+        System.out.println(tomatoPlant.getCropsOnPlant());
 
     }
-
 }
