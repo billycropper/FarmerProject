@@ -14,7 +14,6 @@ public class CropDuster extends FarmerVehicle implements IAirCraft{
     }
 
     private boolean hasBeenFerilized;
-    private boolean isDusted;
 
 
     public boolean getHasBeenFerilized() {
