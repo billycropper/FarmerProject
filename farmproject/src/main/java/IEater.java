@@ -1,3 +1,4 @@
 public interface IEater {
-    void eat();
+   public void eat();
+
 }
