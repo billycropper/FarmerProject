@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abda7bb6-4b64-4772-9ded-f52ed103f46d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ChickenCoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ChickenCoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Farm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Farm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FarmHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FarmHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ChrisTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ChrisTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,10 +80,66 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ChrisTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="142" column="41" selection-start-line="142" selection-start-column="41" selection-end-line="142" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#280#289#0" expanded="true" />
+                <element signature="e#793#802#0" expanded="true" />
+                <element signature="e#1400#1407#0" expanded="true" />
+                <element signature="e#1866#1873#0" expanded="true" />
+                <element signature="e#2346#2354#0" expanded="true" />
+                <element signature="e#2859#2867#0" expanded="true" />
+                <element signature="e#3707#3716#0" expanded="true" />
+                <element signature="e#3894#3907#0" expanded="true" />
+                <element signature="e#3942#3950#0" expanded="true" />
+                <element signature="e#3952#3960#0" expanded="true" />
+                <element signature="e#4275#4282#0" expanded="true" />
+                <element signature="e#4521#4530#0" expanded="true" />
+                <element signature="e#5006#5015#0" expanded="true" />
+                <element signature="e#5203#5216#0" expanded="true" />
+                <element signature="e#5269#5277#0" expanded="true" />
+                <element signature="e#5330#5338#0" expanded="true" />
+                <element signature="e#5577#5584#0" expanded="true" />
+                <element signature="e#5768#5781#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FarmHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+              <folding>
+                <element signature="e#107#115#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Farm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
+            <state relative-caret-position="714">
               <caret line="42" column="110" selection-start-line="42" selection-start-column="110" selection-end-line="42" selection-end-column="110" />
               <folding>
                 <element signature="e#102#110#0" expanded="true" />
@@ -107,48 +159,6 @@
                 <element signature="e#774#775#0" expanded="true" />
                 <element signature="e#813#814#0" expanded="true" />
                 <element signature="e#834#835#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ChrisTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="55" column="43" lean-forward="true" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#280#289#0" expanded="true" />
-                <element signature="e#793#802#0" expanded="true" />
-                <element signature="e#1400#1407#0" expanded="true" />
-                <element signature="e#1866#1873#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FarmHouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
-              <folding>
-                <element signature="e#107#115#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -248,7 +258,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555164908852" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555358972427" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -264,19 +274,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ChrisTests.chickenCoopRemove">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="FarmerProject" />
+  <component name="RunManager" selected="JUnit.ChrisTests.removeChickenCoop">
+    <configuration name="ChrisTests.addChickenCoopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="farmproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChrisTests" />
+      <option name="METHOD_NAME" value="addChickenCoopTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChrisTests.chickenCoopAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChrisTests.addPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="farmproject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ChrisTests" />
-      <option name="METHOD_NAME" value="chickenCoopAdd" />
+      <option name="METHOD_NAME" value="addPerson" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -292,11 +305,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ChrisTests.removeChickenCoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="farmproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChrisTests" />
+      <option name="METHOD_NAME" value="removeChickenCoop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChrisTests.removeHorseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="farmproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChrisTests" />
+      <option name="METHOD_NAME" value="removeHorseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ChrisTests.removeChickenCoop" />
+        <item itemvalue="JUnit.ChrisTests.addChickenCoopTest" />
+        <item itemvalue="JUnit.ChrisTests.removeHorseTest" />
+        <item itemvalue="JUnit.ChrisTests.addPerson" />
         <item itemvalue="JUnit.ChrisTests.chickenCoopRemove" />
-        <item itemvalue="JUnit.ChrisTests.chickenCoopAdd" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -325,6 +360,18 @@
     </history-entry>
     <history-entry file="ChrisTests_chickenCoopRemove - 2019.04.13 at 09h 34m 05s.xml">
       <configuration name="ChrisTests.chickenCoopRemove" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChrisTests_removeHorseTest - 2019.04.15 at 14h 29m 04s.xml">
+      <configuration name="ChrisTests.removeHorseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChrisTests_addPerson - 2019.04.15 at 14h 51m 10s.xml">
+      <configuration name="ChrisTests.addPerson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChrisTests_removeHorseTest - 2019.04.15 at 14h 52m 16s.xml">
+      <configuration name="ChrisTests.removeHorseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChrisTests_addChickenCoopTest - 2019.04.15 at 15h 52m 11s.xml">
+      <configuration name="ChrisTests.addChickenCoopTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -452,27 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IRider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IEater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IBotanist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/IAirCraft.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -491,56 +517,6 @@
             <element signature="e#199#200#0" expanded="true" />
             <element signature="e#243#244#0" expanded="true" />
             <element signature="e#274#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FarmHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
-          <folding>
-            <element signature="e#107#115#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Farm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="42" column="110" selection-start-line="42" selection-start-column="110" selection-end-line="42" selection-end-column="110" />
-          <folding>
-            <element signature="e#102#110#0" expanded="true" />
-            <element signature="e#177#190#0" expanded="true" />
-            <element signature="e#278#285#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -591,16 +567,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FarmHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+          <folding>
+            <element signature="e#107#115#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Farm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="110" selection-start-line="42" selection-start-column="110" selection-end-line="42" selection-end-column="110" />
+          <folding>
+            <element signature="e#102#110#0" expanded="true" />
+            <element signature="e#177#190#0" expanded="true" />
+            <element signature="e#278#285#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IEater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IRider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IRidable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IBotanist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ChrisTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="55" column="43" lean-forward="true" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+        <state relative-caret-position="483">
+          <caret line="142" column="41" selection-start-line="142" selection-start-column="41" selection-end-line="142" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#280#289#0" expanded="true" />
             <element signature="e#793#802#0" expanded="true" />
             <element signature="e#1400#1407#0" expanded="true" />
             <element signature="e#1866#1873#0" expanded="true" />
+            <element signature="e#2346#2354#0" expanded="true" />
+            <element signature="e#2859#2867#0" expanded="true" />
+            <element signature="e#3707#3716#0" expanded="true" />
+            <element signature="e#3894#3907#0" expanded="true" />
+            <element signature="e#3942#3950#0" expanded="true" />
+            <element signature="e#3952#3960#0" expanded="true" />
+            <element signature="e#4275#4282#0" expanded="true" />
+            <element signature="e#4521#4530#0" expanded="true" />
+            <element signature="e#5006#5015#0" expanded="true" />
+            <element signature="e#5203#5216#0" expanded="true" />
+            <element signature="e#5269#5277#0" expanded="true" />
+            <element signature="e#5330#5338#0" expanded="true" />
+            <element signature="e#5577#5584#0" expanded="true" />
+            <element signature="e#5768#5781#0" expanded="true" />
           </folding>
         </state>
       </provider>
