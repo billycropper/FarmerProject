@@ -1,6 +1,5 @@
 public class TomatoPlant extends Crop {
     private String Tomato;
-    private TomatoPlant tomatoplant;
 
     public TomatoPlant(String tomato) {
         Tomato = tomato;
@@ -14,8 +13,8 @@ public class TomatoPlant extends Crop {
         Tomato = tomato;
     }
 
-    public Object yield() {
-        return tomatoplant;
+    public void yield() {
+
     }
 
 }
