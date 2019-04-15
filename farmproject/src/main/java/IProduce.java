@@ -1,6 +1,5 @@
 public interface IProduce {
-    void yield();
-    boolean edible();
+    Object yield();
     boolean hasBeenHarvested();
     boolean hasBeenFertilized();
 }

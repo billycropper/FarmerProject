@@ -1,6 +1,6 @@
 public class CornStalk extends Crop {
     private String Earcorn;
-
+    private Earcorn earcorn;
     public CornStalk(String earcorn) {
         Earcorn = earcorn;
     }
@@ -13,7 +13,7 @@ public class CornStalk extends Crop {
         Earcorn = earcorn;
     }
 
-    public void yield() {
-
+    public Object yield() {
+        return earcorn;
     }
 }
