@@ -12,5 +12,4 @@ public class Tractor extends FarmerVehicle{
         return true;
     }
 
-
 }

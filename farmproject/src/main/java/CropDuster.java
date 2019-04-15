@@ -35,8 +35,6 @@ public class CropDuster extends FarmerVehicle implements IAirCraft{
 
     }
 
-    public boolean getisDusted(){return isDusted;}
-    public void setisDusted(boolean isDusted){ this.isDusted = isDusted;}
 
 //prototype method for IAirCraft
     public boolean fly() {
