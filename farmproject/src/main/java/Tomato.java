@@ -1,4 +1,4 @@
-public class Tomato extends Crop implements IProduce {
+public class Tomato extends Crop implements IProduce, IEdible {
     private boolean beenFertilized;
     private boolean beenHarvested;
     private Tomato tomato;
