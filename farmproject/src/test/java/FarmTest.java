@@ -1,4 +1,2 @@
-import org.junit.Test;
-
-public class FarmTest{
+public class FarmTest {
 }
