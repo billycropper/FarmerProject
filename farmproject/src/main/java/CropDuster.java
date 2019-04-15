@@ -1,15 +1,9 @@
-public class CropDuster extends FarmerVehicle implements IAirCraft{
+public class CropDuster extends FarmerVehicle {
 
-    int wings;
-
-    public CropDuster(int wheels, int windows, int door, int wings) {
+    public CropDuster(int wheels, int windows, int door) {
         super(wheels, windows, door);
-        this.wings = wings;
     }
-
-    public boolean makeNoise() { return true; }
-
-    public boolean ridable() {
+    public boolean makeNoise() {
         return true;
     }
 
