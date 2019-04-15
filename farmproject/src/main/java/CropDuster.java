@@ -35,7 +35,6 @@ public class CropDuster extends FarmerVehicle implements IAirCraft{
 
     }
 
-
 //prototype method for IAirCraft
     public boolean fly() {
         return false;
