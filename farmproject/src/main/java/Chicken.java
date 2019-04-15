@@ -1,4 +1,4 @@
-public class Chicken extends Animal implements IProduce {
+abstract class Chicken extends Animal implements IProduce {
 
     public Chicken(String color, int legs, int eyes)
     {super(color, legs, eyes);}

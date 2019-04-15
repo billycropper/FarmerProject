@@ -1,3 +1,8 @@
 public interface IRidable {
-    boolean ridable();
+    boolean canRide();
+
+
+
+
+
 }
