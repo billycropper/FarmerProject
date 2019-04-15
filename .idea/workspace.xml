@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db3680cb-7190-4344-aa89-705373760bd4" name="Default Changelist" comment="" />
+    <list default="true" id="db3680cb-7190-4344-aa89-705373760bd4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/farmproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/farmproject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/farmproject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/farmproject/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,39 @@
             <path>
               <item name="FarmerProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="FarmerProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarmerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="farmproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarmerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="farmproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarmerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="farmproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarmerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="farmproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarmerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="farmproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
