@@ -33,18 +33,25 @@ public class avonteTest {
     }
 
     @Test
-    public void testMount(){
+    public boolean testMount(){
         //Given
         Farmer farmer = new Farmer("Avonte", 2, true, true);
+        Horse horse = new Horse("Brown", 4, 2);
         boolean expected = true;
 
         //When
-        boolean actual = farmer.mount();
+
+        if (farmer.mount()==horse.ridable()){
+            return true;
+        }
+        boolean actual = true;
+
 
 
         //Then
         Assert.assertEquals(expected, actual);
 
+        return expected;
     }
 
     @Test

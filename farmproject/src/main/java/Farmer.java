@@ -9,8 +9,8 @@ public class Farmer extends Person implements IBotanist{
     }
 
     public boolean mount() {
+            return true;
 
-        return true;
     }
 
     public boolean makeNoise() {
