@@ -1,4 +1,4 @@
 public interface IRider {
-    void mount();
+    boolean mount();
     void dismount();
 }

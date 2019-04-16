@@ -11,5 +11,17 @@ public abstract class FarmerVehicle extends Vehicle{
     public boolean ridable() {
         return true;
     }
+
+    public boolean operate(){
+        return true;
+    }
+    public boolean fertilize(){
+        return true;
+    }
+    public boolean harvest(){
+        return true;
+    }
+
 }
+
 
