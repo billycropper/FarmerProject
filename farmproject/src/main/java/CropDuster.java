@@ -24,15 +24,20 @@ public class CropDuster extends FarmerVehicle implements IAirCraft{
         this.hasBeenFerilized = hasBeenFerilized;
     }
 
-    public void dustField(){
+    public void dustField(Field field){
 
-        if (hasBeenFerilized == hasBeenFerilized){
-            hasBeenFerilized = true;
+        if (getHasBeenFerilized() == true){
+
+            System.out.println(" These crop has been fertilized. ");
         }
-        else if (hasBeenFerilized != hasBeenFerilized){
-            hasBeenFerilized = false;}
+        else if (getHasBeenFerilized() == false) {
 
+            System.out.println(" Let's not forget these crops...");
+
+            setHasBeenFerilized(true);
+        }
     }
+
 
 //prototype method for IAirCraft
     public boolean fly() {
