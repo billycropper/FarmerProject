@@ -1,4 +1,6 @@
 public interface IAirCraft {
     //testForGitHub
-    boolean fly();
+    public boolean isFlying = false;
+    public  boolean fly = false;
+    public boolean land = false;
 }

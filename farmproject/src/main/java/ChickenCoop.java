@@ -12,4 +12,5 @@ public class ChickenCoop {
     public void setChicken(Chicken chicken) {
         this.chicken = chicken;
     }
+
 }
