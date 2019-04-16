@@ -149,11 +149,12 @@ public class ChrisTests {
         Horse horse1 = new Horse("Brown",4,2);
         Horse horse2 = new Horse("Black",3,2);
         ArrayList<Horse> horses = new ArrayList<Horse>();
-        horses.add(chicken1);
-        chickens.add(chicken2);
-        ChickenCoop chickenCoop = new ChickenCoop(chickens);
+        horses.add(horse1);
+        horses.add(horse2);
         ArrayList<ChickenCoop> chickenCoops = new ArrayList<ChickenCoop>();
         ArrayList<Stable> stables = new ArrayList<Stable>();
+        Stable stable = new Stable(horses);
+        stables.add(stable);
         ArrayList<Person> persons = new ArrayList<Person>();
         FarmHouse farmhouse = new FarmHouse(persons);
         Crop corn1 = new CornStalk("Corn");
@@ -161,5 +162,8 @@ public class ChrisTests {
         Field field = new Field(cropRow1);
         ArrayList<Field> fields = new ArrayList<Field>();
         Farm farm = new Farm(stables,chickenCoops,farmhouse,fields);
+        ArrayList expect = chickenCoops;
+        ArrayList actual = farm.getStables();
+        Assert.assertEquals(expect,actual);
     }
 }
