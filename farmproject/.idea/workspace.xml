@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="abda7bb6-4b64-4772-9ded-f52ed103f46d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
+=======
+    <list default="true" id="abda7bb6-4b64-4772-9ded-f52ed103f46d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChickenCoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CornStalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Crop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CropRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FarmHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TomatoPlant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,35 +27,104 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/INoiseMaker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/FarmerVehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Crop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CropRow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding>
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/IEdible.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Field.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <element signature="e#85#86#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+              </folding>
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IProduce.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ChickenCoop.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="17">
               <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+=======
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+              </folding>
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FarmHouse.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="532">
               <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="58" />
               <folding>
@@ -50,36 +134,80 @@
                 <element signature="e#556#557#0" expanded="true" />
                 <element signature="e#648#649#0" expanded="true" />
                 <element signature="e#680#681#0" expanded="true" />
+=======
+            <state relative-caret-position="119">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/Horse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="8" selection-start-column="8" selection-end-column="8" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/Stable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
               <folding>
+                <element signature="e#79#80#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
                 <element signature="e#172#173#0" expanded="true" />
+<<<<<<< HEAD
                 <element signature="e#199#200#0" expanded="true" />
+=======
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IRidable.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Farm.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+=======
+            <state relative-caret-position="426">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+              </folding>
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chicken.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CornStalk.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state>
               <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
@@ -91,13 +219,25 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+=======
+            <state relative-caret-position="119">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+              </folding>
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IBotanist.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TomatoPlant.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="34">
               <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
@@ -109,6 +249,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+=======
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+              </folding>
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
             </state>
           </provider>
         </entry>
@@ -130,6 +282,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/animal.java" />
         <option value="$PROJECT_DIR$/src/main/java/horse.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -142,6 +295,18 @@
         <option value="$PROJECT_DIR$/src/main/java/IProduce.java" />
         <option value="$PROJECT_DIR$/src/main/java/INoiseMaker.java" />
         <option value="$PROJECT_DIR$/src/main/java/IEdible.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/IAirCraft.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Crop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CornStalk.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TomatoPlant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CropRow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Field.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ChickenCoop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FarmHouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Farm.java" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
       </list>
     </option>
   </component>
@@ -152,10 +317,17 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="84" />
     <option name="width" value="1281" />
     <option name="height" value="702" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -203,7 +375,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555355526196" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555008527536" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -253,10 +429,14 @@
     <option name="totallyTimeSpent" value="2191000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="0" width="653" height="687" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16923077" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29679596" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -271,7 +451,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.19538188" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -319,13 +503,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/farmproject/src/main/java/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/IAirCraft.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/Test" />
     <entry file="file://$PROJECT_DIR$/src/main/java/IEater.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -338,10 +523,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/IBotanist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IBotanist.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/IEater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
@@ -355,13 +546,18 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/Chicken.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/IProduce.java">
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/Horse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -370,11 +566,18 @@
             <element signature="e#172#173#0" expanded="true" />
             <element signature="e#199#200#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TomatoPlant.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="532">
           <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="58" />
           <folding>
@@ -384,12 +587,24 @@
             <element signature="e#556#557#0" expanded="true" />
             <element signature="e#648#649#0" expanded="true" />
             <element signature="e#680#681#0" expanded="true" />
+=======
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IProduce.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CornStalk.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="17">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
@@ -413,6 +628,124 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+=======
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CropRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Crop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ChickenCoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FarmHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Farm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+          </folding>
+>>>>>>> 5e11fc17f55b33f197442ed506012767f96c7731
         </state>
       </provider>
     </entry>
