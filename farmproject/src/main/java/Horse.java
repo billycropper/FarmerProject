@@ -1,4 +1,4 @@
-abstract class Horse extends Animal implements IRidable {
+public class Horse extends Animal implements IRidable {
 
     public Horse (String color, int legs, int eyes)
     {super(color, legs, eyes);}
@@ -9,6 +9,10 @@ abstract class Horse extends Animal implements IRidable {
 
     public void eat(){
 
+    }
+
+    public boolean canRide() {
+        return true;
     }
 
     public boolean ridable(){
